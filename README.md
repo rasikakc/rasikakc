@@ -25,31 +25,8 @@ const Rasika = {
   goals: ["Azure Fundamentals", "AWS Cloud Practitioner", "Certified Kubernetes Administrator"]
 };
 ```
-<h3 align="left">Connect with me:</h3>
 
-<table width="100%">
-  <tr>
-    <!-- Left: LinkedIn -->
-    <td align="left">
-      <a href="https://linkedin.com/in/rasikakc" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-          height="30" 
-          width="40" 
-          alt="LinkedIn"
-        />
-      </a>
-    </td>
-    <!-- Right: Cat GIF -->
-    <td align="right">
-      <img 
-        src="https://cdna.artstation.com/p/assets/images/images/011/014/780/original/j-c-hart-pixel-cat-002.gif?1527436571" 
-        height="40" 
-        alt="cat gif"
-      />
-    </td>
-  </tr>
-</table>
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/rasikakc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasikakc" height="30" width="40" /></a> </p>
 
 </div>
 <h3 align="left">Languages and Tools:</h3>
