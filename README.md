@@ -1,5 +1,8 @@
+<div align="right">
 
+<img src="https://komarev.com/ghpvc/?username=rasikakc&label=Profile%20views&color=0e75b6&style=flat" />
 
+</div>
 
 <div align="center">
 
@@ -7,6 +10,7 @@
 
 
 ---
+
 
 </div>
 
@@ -25,6 +29,8 @@ const Rasika = {
   goals: ["Azure Fundamentals", "AWS Cloud Practitioner", "Certified Kubernetes Administrator"]
 };
 ```
+
+
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/rasikakc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasikakc" height="30" width="40" /></a> </p>
 
