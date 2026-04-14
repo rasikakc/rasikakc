@@ -21,7 +21,7 @@ const Rasika = {
   tools: ["AWS", "Kubernetes", "Docker", "Salesforce", "Jira", "Confluence", "Ambari", "Kibana", "YAML"],
   devops: ["AWS S3", "AWS IAM", "AWS CloudWatch", "Azure Blob Storage"],
   interests: ["Big Data Analytics", "GenAI", "Cybersecurity", "Data Engineering"],
-  building: ["Compliance Training Framework", "LLM Evaluation Tool"],
+  building: ["“Diagnosis First” Runbook", "top class documentation"],
   goals: ["Azure Fundamentals", "AWS Cloud Practitioner", "Certified Kubernetes Administrator"]
 };
 ```
