@@ -19,7 +19,7 @@ const Rasika = {
   devops: ["AWS S3", "AWS IAM", "AWS CloudWatch", "Azure Blob Storage"],
   interests: ["Big Data Analytics", "GenAI", "Cybersecurity", "Data Engineering"],
   building: [" 'Diagnosis First' Runbook", "Quality Documentation"],
-  goals: ["Azure Fundamentals", "AWS Cloud Practitioner", "Certified Kubernetes Administrator"]
+  goals: ["NVIDIA NCA-GENL", "AWS Cloud Practitioner", "Certified Kubernetes Administrator"]
 };
 ```
 
