@@ -12,14 +12,13 @@
 ```javascript
 const Rasika = {
   pronouns: "she" | "her",
-  title: ["Customer Operations Engineer", "@Cloudera"],
   expertise: ["Customer Success", "Hadoop Security", "Data Governance", "Problem Solving", "Linux Administration"],
-  code: ["C", "SQL", "C++", "HTML", "JavaScript", "Bash", "Python"],
-  tools: ["AWS", "Kubernetes", "Docker", "Salesforce", "Jira", "Confluence", "Ambari", "Kibana", "YAML"],
+  code: ["C", "C++", "HTML", "JavaScript", "SQL", "Bash", "Python"],
+  tools: [ "AWS", "Kubernetes", "Docker", "Git", "Salesforce", "Jira", "Confluence", Wireshark, "Kibana", "YAML"],
   devops: ["AWS S3", "AWS IAM", "AWS CloudWatch", "Azure Blob Storage"],
-  interests: ["Big Data Analytics", "GenAI", "Cybersecurity", "Data Engineering"],
+  interests: ["Big Data Analytics", "GenAI", "DevSecOps", "Data Engineering"],
   building: [" 'Diagnosis First' Runbook", "Quality Documentation"],
-  goals: ["NVIDIA NCA-GENL", "AWS Cloud Practitioner", "Certified Kubernetes Administrator"]
+  goals: ["NVIDIA NCA-GENL", "AWS Solution Architect Associate", "Certified Kubernetes Administrator"]
 };
 ```
 
