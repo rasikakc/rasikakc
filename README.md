@@ -14,7 +14,7 @@ const Rasika = {
   pronouns: "she" | "her",
   expertise: ["Customer Success", "Hadoop Security", "Data Governance", "Problem Solving", "Linux Administration"],
   code: ["C", "C++", "HTML", "JavaScript", "SQL", "Bash", "Python"],
-  tools: [ "AWS", "Kubernetes", "Docker", "Git", "Salesforce", "Jira", "Confluence", Wireshark, "Kibana", "YAML"],
+  tools: [ "AWS", "Kubernetes", "Docker", "Git", "Salesforce", "Jira", "Confluence", "Wireshark", "Kibana", "YAML"],
   devops: ["AWS S3", "AWS IAM", "AWS CloudWatch", "Azure Blob Storage"],
   interests: ["Big Data Analytics", "GenAI", "DevSecOps", "Data Engineering"],
   building: [" 'Diagnosis First' Runbook", "Quality Documentation"],
